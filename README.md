@@ -28,3 +28,10 @@ a rewiew has
 - some text
 - a note ?
 
+# TODO
+- case insensitive comparison
+- add_*
+- listing
+- help
+- readme
+- see data location

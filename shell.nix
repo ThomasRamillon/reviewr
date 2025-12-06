@@ -9,6 +9,7 @@ pkgs.mkShell {
   buildInputs = with pkgs; [
     gcc
     gnumake
+    nlohmann_json
   ];
   
   shellHook = ''echo 'shell on'
